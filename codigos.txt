@@ -1,5 +1,0 @@
-On branch master
-Untracked files:
-	codigos.txt
-
-nothing added to commit but untracked files present
