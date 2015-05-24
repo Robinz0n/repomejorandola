@@ -26,5 +26,13 @@ body{
 	text-align: center;
 	font-weight: 20px;
 	margin-bottom: 1px;
+	position: relative;
 }
-
+.conter{
+ position: absolute;
+ top: 80px;
+ left: 100px;
+ width: 500px;
+ height: 500px;
+ background-color: #2F4F4F;
+}
